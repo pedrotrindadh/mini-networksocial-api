@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
+import com.pedrotrindade.minisocialnetwork.domain.User;
 import com.pedrotrindade.minisocialnetwork.dto.UserDTO;
-import com.pedrotrindade.minisocialnetwork.entities.User;
 import com.pedrotrindade.minisocialnetwork.services.UserService;
 
 @RestController

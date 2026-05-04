@@ -2,7 +2,7 @@ package com.pedrotrindade.minisocialnetwork.dto;
 
 import java.io.Serializable;
 
-import com.pedrotrindade.minisocialnetwork.entities.User;
+import com.pedrotrindade.minisocialnetwork.domain.User;
 
 public class UserDTO implements Serializable {
 	

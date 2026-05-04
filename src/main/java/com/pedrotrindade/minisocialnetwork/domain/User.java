@@ -1,4 +1,4 @@
-package com.pedrotrindade.minisocialnetwork.entities;
+package com.pedrotrindade.minisocialnetwork.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
